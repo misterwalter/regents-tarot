@@ -65,6 +65,22 @@ The learner should take a moment to consider the meaning of these cards, and the
 The diviner then draws the six icons in much the same fashion, with the exception that the learner and diviner should work together to interpret the cards in between each drawing. Each of the signs both changes, and is changed by, the actors that it touches. In this way, the 1st Icon affects only the follower directly, but the 2nd sign affects both the follower and the broken. These changes are sometimes representative of a chronological story, but not always.
 
 ### Actors
+- **The Paladin**: Powerful and righteous. Destroys their enemies. Can be cruel and stupid.
 
+- **The Scholar**: Intellectual and good hearted. Solves problems. Can be weak and unwise.
+
+- **The Loyal**: Pious and virtuous. Unites and divides. Can be blind to their own flaws.
 
 ### Icons
+
+- **The Light**: Total transformation, an annihilation of what once was. A replacement.
+
+- **The Fire**: A Sacrifice, perhaps freely given, perhaps bitterly extracted.
+
+- **The Eyes**: Vision and knowledge, guidance against treachery.
+
+- **The Blood**: A gift or exchange of health or life.
+
+- **The Smile**: Friendship, courtship, trust.
+
+- **The Mask**: Deception, often elaborate.
