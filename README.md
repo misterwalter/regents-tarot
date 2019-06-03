@@ -84,3 +84,6 @@ The diviner then draws the six icons in much the same fashion, with the exceptio
 - **The Smile**: Friendship, courtship, trust.
 
 - **The Mask**: Deception, often elaborate.
+
+### Doing Without Cards
+If you lack a full set of triangualr cards, but still desire guidance, it is acceptable to roll dice or draw other cards, and apply those results to a table of cards here. Just be sure that you don't use any card more than once in a single reading.
