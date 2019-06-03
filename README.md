@@ -17,7 +17,7 @@ A divination tool from the world of Imperial Dawn
           /  6th  \      /  2nd  \
          /   Icon  \    /   Icon  \
         /           \  /           \
-       /\------------{}-------------\
+       /\------------{}------------/\
       /  \           /\           /  \
      /    \ Breaker /  \  Broken /    \
     /      \       /    \       /      \
