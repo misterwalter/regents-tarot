@@ -52,13 +52,13 @@ The Learner places a small lit candle, or other comparable magical effect, at th
 
 #### Drawing Actors
 
-The diviner draws one card from the actor deck. This is the **Breaker**. It is placed on the table as indicated above.
+The diviner draws one card from the actor deck. This is the **Breaker**, which represents an inciting force or character that is breaking or changing something. It is placed on the table as indicated above.
 
-The diviner draws one card from the actor deck. This is the **Broken**. It is placed on the table as indicated above.
+The diviner draws one card from the actor deck. This is the **Broken**, which represents something that is being or will be acted upon by the Breaker. It is placed on the table as indicated above.
 
-The diviner draws one card from the actor deck. This is the **Follower**. It is placed on the table as indicated above.
+The diviner draws one card from the actor deck. This is the **Follower**, which represents those affected by the change, and those that may support or resist it. It is placed on the table as indicated above.
 
-The diviner draws one card from the actor deck. This is the **Forgotten**. It is briefly placed on the table, and then returned to the deck.
+The diviner draws one card from the actor deck. This is the **Forgotten**, which represents an element that is lost in the struggle, and which may or may not be restorable. It is briefly placed on the table, and then returned to the deck.
 
 The learner should take a moment to consider the meaning of these cards, and the diviner should guide them in that. No final determination needs to be made.
 
@@ -66,25 +66,45 @@ The learner should take a moment to consider the meaning of these cards, and the
 The diviner then draws the six icons in much the same fashion, with the exception that the learner and diviner should work together to interpret the cards in between each drawing. Each of the signs both changes, and is changed by, the actors that it touches. In this way, the 1st Icon affects only the follower directly, but the 2nd sign affects both the follower and the broken. These changes are sometimes representative of a chronological story, but not always.
 
 ### Actors
-- **The Paladin**: Powerful and righteous. Destroys their enemies. Can be cruel and stupid.
+- **The Broken**: Weak, but driven. Willing to act, but unable to see how. Often consumed by success or failure.
 
-- **The Scholar**: Intellectual and good hearted. Solves problems. Can be weak and unwise.
+- **The Friends**: Synergy and Loyalty, in service of a goal. Can be divided to their detriment.
 
-- **The Loyal**: Pious and virtuous. Unites and divides. Can be blind to their own flaws.
+- **The Lonely**: Independence at the cost of isolation and starvation. Spiritual or physical decrepitude.
+
+- **The Lovers**: Loyalty and mutual support, with codependency that sustains. Unaware of the world beyond eachother.
+
+- **The Loyal**: Pious and virtuous. Unites and divides. Blind to their own flaws.
+
+- **The Martyr**: Power, duty, and suffering. Lives well, suffers long, dies young.
+
+- **The Paladin**: Powerful and righteous. Destroys their enemies. Cruel and stupid.
+
+- **The Scholar**: Intellectual and good hearted. Solves problems. Weak and unwise.
 
 ### Icons
 
-- **The Light**: Total transformation, an annihilation of what once was. A replacement.
+- **Blood**: A gift or exchange of health or life.
 
-- **The Fire**: A Sacrifice, perhaps freely given, perhaps bitterly extracted.
+- **Eyes**: Vision and knowledge, guidance against treachery.
 
-- **The Eyes**: Vision and knowledge, guidance against treachery.
+- **Fire**: A Sacrifice, perhaps freely given, perhaps bitterly extracted.
 
-- **The Blood**: A gift or exchange of health or life.
+- **Harvest**: A reaping. A great loss for a greater gain.
 
-- **The Smile**: Friendship, courtship, trust.
+- **Haze**: Mistaken senses or instincts. Simple, accidental, or incidental deceptions.
 
-- **The Mask**: Deception, often elaborate.
+- **Light**: Total transformation, an annihilation of what once was. A replacement.
+
+- **Many**: Home and family. Responsibility towards dependents.
+
+- **Mask**: Deception, often elaborate.
+
+- **Salve**: Restoration and healing. A return to comfort and health.
+
+- **Smile**: Friendship, courtship, trust.
+
+- **Worms**: Transformative failure. What should have been becomes something else.
 
 ### Doing Without Cards
-If you lack a full set of triangualr cards, but still desire guidance, it is acceptable to roll dice or draw other cards, and apply those results to a table of cards here. Just be sure that you don't use any card more than once in a single reading.
+If you lack a full set of triangualar cards, but still desire guidance, it is acceptable to roll dice or draw other cards, and apply those results to a table of cards here. Just be sure that you don't use any card more than once in a single reading.
