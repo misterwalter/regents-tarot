@@ -66,7 +66,7 @@ The learner should take a moment to consider the meaning of these cards, and the
 The diviner then draws the six icons in much the same fashion, with the exception that the learner and diviner should work together to interpret the cards in between each drawing. Each of the signs both changes, and is changed by, the actors that it touches. In this way, the 1st Icon affects only the follower directly, but the 2nd sign affects both the follower and the broken. These changes are sometimes representative of a chronological story, but not always.
 
 ### Actors
-- **The Broken**: Weak, but driven. Willing to act, but unable to see how. Often consumed by success or failure.
+- **The Broken**: Weak, but driven. Willing to act, but often unable to see how. Often consumed by success or failure.
 
 - **The Friends**: Synergy and Loyalty, in service of a goal. Can be divided to their detriment.
 
@@ -76,15 +76,17 @@ The diviner then draws the six icons in much the same fashion, with the exceptio
 
 - **The Loyal**: Pious and virtuous. Unites and divides. Blind to their own flaws.
 
-- **The Martyr**: Power, duty, and suffering. Lives well, suffers long, dies young.
+- **The Martyr**: Power, duty, and suffering. Lives rightly, suffers long, dies young.
 
-- **The Paladin**: Powerful and righteous. Destroys their enemies. Cruel and stupid.
+- **The Paladin**: Powerful and righteous. Destroys their enemies. Cruel, stupid, and sometimes necessary.
 
 - **The Scholar**: Intellectual and good hearted. Solves problems. Weak and unwise.
 
 ### Icons
 
 - **Blood**: A gift or exchange of health or life.
+
+- **Crown**: External control with internal weakness and confusion.
 
 - **Eyes**: Vision and knowledge, guidance against treachery.
 
@@ -98,13 +100,13 @@ The diviner then draws the six icons in much the same fashion, with the exceptio
 
 - **Many**: Home and family. Responsibility towards dependents.
 
-- **Mask**: Deception, often elaborate.
+- **Mask**: Deception, often elaborate, always intentional. 
 
 - **Salve**: Restoration and healing. A return to comfort and health.
 
 - **Smile**: Friendship, courtship, trust.
 
-- **Worms**: Transformative failure. What should have been becomes something else.
+- **Worms**: Transformative failure. What should have been instead becomes something else.
 
 ### Doing Without Cards
 If you lack a full set of triangular cards, but still desire guidance, it is acceptable to roll dice or draw other cards, and apply those results to a table of cards here. Just be sure that you don't use any card more than once in a single reading.
